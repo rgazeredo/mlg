@@ -1,4 +1,4 @@
-package com.reactnativeseed;
+package com.mlg;
 
 import android.app.Application;
 
